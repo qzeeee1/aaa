@@ -1,6 +1,6 @@
 # Toy Project 1 template
 
-이 프로젝트는 토이 프로젝트 1 을 위한 템플릿 프로젝트입니다.
+이 프로젝트는 토이 프로젝트 1 을 위한 템플릿 프로젝트입니다.   
 템플릿에는 vite 기반 프론트앤드 프로젝트 구조와 express 기반 node 서버를 포함하고 있습니다.
 
 ## ✅ 설치
@@ -25,7 +25,7 @@ npm run dev
 
 # 📢 토이프로젝트 1 : 병원 인트라넷 서비스
 
-**코드깎는 jang 인들** 의 토이 프로젝트1 산출물 저장소입니다.
+
 
 ## 👋 구성원 소개
 
@@ -35,6 +35,7 @@ npm run dev
 |                                [@KwonSeami](https://github.com/jiyoon04)                                |                               [@vgotu99](https://github.com/redbuttonking)                               |                                  [@jurilee0](https://github.com/j0n0m2)                                  |                             [@YounghoonJeon-fe](https://github.com/qzeeee1)                              |
 |                                     **ISTJ**                                      |                                          **ENTJ**                                          |                                          **ENTJ**                                          |                                        **ISTJ**                                        |
 
+
 ## 📌 팀 규칙
 
 1. 오전 10시 데일리 스크럼으로 본인 작업 진행상황 및 의견 공유합니다.
@@ -42,6 +43,7 @@ npm run dev
 3. 출결이슈는 팀원에게 사전에 미리 공유유 해주세요.
 4. Slack에서 코멘트 및 이모지 활용하여 읽음을 표시 해주세요.
 5. 모르는 것은 팀원에게 질문하며 서로 협력합니다.
+
 
 ## 🤝 컨벤션
 
@@ -58,18 +60,21 @@ npm run dev
 - 만약에 이슈가 없으면 - - - ISSUE 번호 안써도 됩니다.
 
 - 커밋 메세지 예시
-  💡 feat: 새로운 기능 추가, 기능 로직 변경
-  🐛 fix: 버그 수정
-  📚 docs: 문서 수정, 주석
-  💄 style: 코드 포맷팅, 코드 변경이 없는 경우
-  🔧 refactor: 코드 리팩토링 (기능 변화 X)
-  ✏️ chore: 빌드 업무 수정, 패키지 매니저 수정
-  ✨ merge: main 브랜치에 반영
+
+  💡 feat: 새로운 기능 추가, 기능 로직 변경    
+  🐛 fix: 버그 수정    
+  📚 docs: 문서 수정, 주석    
+  💄 style: 코드 포맷팅, 코드 변경이 없는 경우    
+  🔧 refactor: 코드 리팩토링 (기능 변화 X)    
+  ✏️ chore: 빌드 업무 수정, 패키지 매니저 수정    
+  ✨ merge: main 브랜치에 반영     
+
 
 ### 코드 스타일
 
 ESLint, Prettier를 활용해 공통 포맷팅 규칙을 사용합니다.
 lit-html 플러그인 설치하여 페이지를 컴포넌화 하여 관리합니다.
+
 
 ### 브랜치
 
@@ -77,13 +82,17 @@ lit-html 플러그인 설치하여 페이지를 컴포넌화 하여 관리합니
 브랜치를 페이지 단위로 구분하여 각 페이지를 표현 했습니다.
 
 - 브랜치명 예시
-  🎨 design
-  🔐 feat/login-mypage
-  🏖️ feat/absence-filter
-  ⏰ feat/work-status
-  📋 feat/board
+
+  🎨 design    
+  🔐 feat/login-mypage    
+  🏖️ feat/absence-filter    
+  ⏰ feat/work-status    
+  📋 feat/board    
+
+
 
 ## 📅 진행 일정
+
 
 ### 1️⃣ ① 기획: 2025.01.06 - 2025.01.09
 
@@ -139,10 +148,6 @@ npm run dev
 ### Front
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-### Back
-
-<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"><img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;">
 
 ### Comm.
 
