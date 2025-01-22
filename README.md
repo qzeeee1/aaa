@@ -189,6 +189,7 @@ toy-project1-team1-hospital-intranet-project
 - [회고]()
 
 ## 🔍 페이지 별 기능
+![image](https://github.com/user-attachments/assets/170d96af-df09-45c2-aa22-871730204e5c)
 
 ### 로그인 (이혜림)
 
@@ -204,8 +205,10 @@ toy-project1-team1-hospital-intranet-project
 - 실시간으로 현재 시간이 표시됩니다.
 - 근무 시작/종료 버튼이 토글형식으로 작동하며 클릭하게 되면 현재시각이 화면에 표시되고 근무상태가 변경됩니다.
 
-### 사용자용 마이페이지 (이혜림)
 
+![image](https://github.com/user-attachments/assets/a30c4d03-14ed-4e8e-8707-a2d63dbdd4d3)
+
+### 사용자용 마이페이지 (이혜림)
 - 사용자의 프로필 이미지가 표시되며며 이미지 파일을 등록 및 수정, 삭제 할수 있습니다.
 - 사용자의 이름, 직급, 근무 상태가 표시됩니다.
 - 사용자의 근무상태는 사용자용 페이지 초기화면의 근무시간 및 종료 토글과 연결됩니다.
